@@ -2,7 +2,7 @@
 
 ## Assessment Key
 
-* C = Acceptable
+* A = Acceptable
 * U = Unacceptable
 
 ## Categories of Conduct
