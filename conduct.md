@@ -30,7 +30,7 @@ beginning of each session, everyone should enter with positive attitudes, these
 positive attitudes should stay consistent whether the project is working or
 breaking.
 
-* **Acceptable Conduct (C):**
+* **Acceptable Conduct (A):**
   * *Members shall*
     * Respect all peers.
     * Allow all members to voice their opinion.
@@ -53,7 +53,7 @@ website](https://www.gregorykapfhammer.com/teaching/cs203S2019/), contact the
 [instructor](https://www.gregorykapfhammer.com/contact/), or schedule an
 [appointment](https://www.gregorykapfhammer.com/schedule/).
 
-* **Acceptable Attendance (C):**
+* **Acceptable Attendance (A):**
   * *Members shall*
     * Attend all lab sessions on time.
     * Miss sessions with consent of the course instructor.
@@ -74,7 +74,7 @@ directly with group members to finish work necessary to move onto other parts
 of the lab, along with completing your assigned portion of the work by the due
 date of the lab.
 
-* **Acceptable Behavior (C):**
+* **Acceptable Behavior (A):**
   * *Members shall*
     * Talk with team members and discuss work needed to be done.
     * Set up a reasonable time frame for when the work will be completed
@@ -109,7 +109,7 @@ Team members shall communicate fully, openly, and promptly regarding individual
 comfort level and progress with an assigned task, as described below.
 
 * Slack shall be the primary method of communication.
-* **Acceptable Communication (C):**
+* **Acceptable Communication (A):**
   * *Members shall*
     * Communicate to others when they will be unable to attend any meeting.
     * Communicate about work in progress and personal time constraints.
@@ -143,7 +143,7 @@ The more we put into our efforts, the better will be the outcome. This can be
 an amazing opportunity to bond well with the team members and bring positivity
 that will bring long-term benefits for the team.
 
-* **Acceptable Participation (C):**
+* **Acceptable Participation (A):**
   * *Members shall*
     * Participate in Slack discussions.
     * Be open to meeting outside of class time.
@@ -195,7 +195,7 @@ teamwork in order to solve problems and issues. Going through postmortems will
 help us to debug and ensure problems that arise get taken care of smoothly and
 surely.
 
-* **Acceptable Postmortems (C):**
+* **Acceptable Postmortems (A):**
   * *Members shall*
     * Talk in the first part of lab section to discuss where we are in the project.
     * Team leaders can lead through this discussion.
@@ -215,7 +215,7 @@ When conflict arise within the working environment, we deal with conflicts in a
 professional manner by communicating any type of issue/conflict with any of the
 team leaders, technical leads, or the CEO directly.
 
-* **Acceptable Behavior (C)**
+* **Acceptable Behavior (A)**
   * *Members shall*
     * Report a conflict or potential conflict with either a team leader,
     technical lead or the CEO directly as soon as it arises or at the nearest
